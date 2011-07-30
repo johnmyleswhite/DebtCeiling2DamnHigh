@@ -1,0 +1,15 @@
+Error handling for spider
+Time series line graph for HTMLMatch and URLMatch
+	- Time period?
+
+Separate out clicks and data about URL
+
+click_data
+	Dictionary:
+		URL -> Timestamps for clicks
+
+url_data
+	Dictionary:
+		URL -> Dictionary
+			HTMLMatch
+			URLMatch
